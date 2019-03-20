@@ -1,4 +1,4 @@
-// fileName : example.02.js
+// fileName : callbackfunction.js
 // topic : callback
 
 function payCheck(hourlyWage, hoursWorked,callback) {
